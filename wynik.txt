@@ -1,0 +1,255 @@
+<?xml?>
+<pajeczaki>
+    <autor>
+        <nazwisko>
+            Nazwisko1
+        </nazwisko>
+        <imie>
+            Imie1
+        </imie>
+    </autor>
+    <pajaki>
+        <nazwa>
+            Tygrzyk Paskowany
+        </nazwa>
+        <nazwa>
+            Argiope bruennichi
+        </nazwa>
+        <gromada>
+            Pajeczaki
+        </gromada>
+        <wystepowanie>
+            <swiat>
+                <kontynent>
+                    Europa
+                </kontynent>
+                <kontynent>
+                    Azja
+                </kontynent>
+            </swiat>
+            <obszar>
+                <teren>
+                    wysoka trawa
+                </teren>
+                <teren>
+                    suche laki
+                </teren>
+                <teren>
+                    wilgotne laki
+                </teren>
+                <teren>
+                    nieuzytki
+                </teren>
+                <teren>
+                    skraje mlodnikow
+                </teren>
+                <teren>
+                    brzegi zbiornikow wodnych
+                </teren>
+                <teren>
+                    ogrody
+                </teren>
+            </obszar>
+            <srodowisko/>
+        </wystepowanie>
+        <opis>
+            Samica: jej glowotulow pokryty jest gestym srebrzystym wlosem, a na 
+            jaskrawozoltym odwloku posiada czarne poprzeczne prazki. Ten 
+            paskowany wzor upodabnia ja nieco do osy. Samiec: jest bardzo 
+            niepozorny, jego srebrzystoszary odwlok urozmaica jedynie szara 
+            podluzna lata na srodku i ciemniejsze kropki po bokach.
+        </opis>
+        <opis>
+            Pajak ten jest bardzo "wybredny", gdyz poluje tylko na owady z rzedu 
+            prostoskrzydlych i wazek, ktore charakteryzuja sie stosunkowo duzymi 
+            rozmiarami.
+        </opis>
+        <opis>
+            Samica osiaga dlugosc ok. 25 mm. Samiec jest bardzo niepozorny, nie 
+            przekracza 5,5 mm dlugosci. 
+        </opis>
+        <zdjecie>
+        </zdjecie>
+        <zdjecie>
+        </zdjecie>
+        <zdjecie>
+        </zdjecie>
+        <zdjecie>
+        </zdjecie>
+        <linki>
+            http://pl.wikipedia.org/wiki/Tygrzyk_paskowany
+        </linki>
+        <linki>
+            http://www.salamandra.org.pl/magazyn/b08a07.html
+        </linki>
+        <linki>
+            http://www.eko.org.pl/otop-leszno/tygrzyk.php
+        </linki>
+        <linki>
+            http://www.bocian.org.pl/biuletyn/2001/b2a23.php
+        </linki>
+        <linki>
+            http://grzesiak.kei.pl/jurek/lista161.html
+        </linki>
+        <data>
+            2005-12-11
+        </data>
+    </pajaki>
+    <pajaki>
+        <nazwa>
+            Krzyzak Ogrodowy
+        </nazwa>
+        <nazwa>
+            Araneus diadematus
+        </nazwa>
+        <gromada>
+            Pajeczaki
+        </gromada>
+        <wystepowanie>
+            <swiat>
+                <kontynent>
+                    Europa
+                </kontynent>
+                <kontynent>
+                    Azja
+                </kontynent>
+            </swiat>
+            <obszar>
+                <teren>
+                    krzewy
+                </teren>
+                <teren>
+                    drzewa
+                </teren>
+                <teren>
+                    ogrody
+                </teren>
+                <teren>
+                    zarosla
+                </teren>
+                <teren>
+                    mlodniki sosnowe
+                </teren>
+            </obszar>
+            <srodowisko/>
+        </wystepowanie>
+        <opis>
+            Na odwloku jasne plamy ukladaja sie w charakterystyczny ksztalt 
+            krzyza, po ktorym latwo tego pajaka rozpoznac. Kolor pajaka to mniej 
+            lub bardziej jasny odcien brazu. Cecha charakterystyczna jest 
+            obecnosc 4 par nog krocznych na tulowiu. Aparat gebowy tworza 
+            szczekoczulki i nagoglaszczki. Odwlok zawsze pozbawiony nog, 
+            przewaznie jest pekaty. Samce sa zwykle niewielkie, natomiast samice 
+            sa znacznie wieksze dzieki odwlokowi wypelnonienemu jajami. 
+        </opis>
+        <opis>
+            Pajak poluje na wszelkie owady, muchy, motyle, cmy itp. Krzyzak 
+            Ogrodowy najczesciej siedzi na srodku pajeczyny czekajac na zdobycz. 
+            Gdy ta wleci w pajeczyne, pajak w mgnieniu oka, podbiega do ofiary, 
+            unieruchamia ja, wstrzykujac jad i oplatajac pajeczyna.
+        </opis>
+        <opis>
+            Krzyzak ogrodowy osiaga dlugosc do 1,7 cm.
+        </opis>
+        <zdjecie>
+        </zdjecie>
+        <zdjecie>
+        </zdjecie>
+        <zdjecie>
+        </zdjecie>
+        <zdjecie>
+        </zdjecie>
+        <linki>
+            http://www.nuzban.scholaris.pl/zwierz/k/krzyzogr.htm
+        </linki>
+        <linki>
+            http://pl.wikipedia.org/wiki/Krzy 5%BCak_ogrodowy
+        </linki>
+        <linki>
+            http://www.nuzban.scholaris.pl/zwierz/k/krzyzogr.htm
+        </linki>
+        <linki>
+            http://www.nwspiders.org/araneus.diadematus.html
+        </linki>
+        <data>
+            2005-12-11
+        </data>
+    </pajaki>
+    <skorpiony>
+        <nazwa>
+            Skorpion Polny
+        </nazwa>
+        <nazwa>
+            Buthus Occitanus
+        </nazwa>
+        <gromada>
+            Pajeczaki
+        </gromada>
+        <wystepowanie>
+            <swiat>
+                <kontynent>
+                    Europa (poludnie)
+                </kontynent>
+                <kontynent>
+                    Afryka (polnoc)
+                </kontynent>
+            </swiat>
+            <obszar>
+                <teren>
+                    stepy
+                </teren>
+                <teren>
+                    obszary pustynne
+                </teren>
+                <teren>
+                    obszary gorzyste
+                </teren>
+            </obszar>
+            <srodowisko>
+            </srodowisko>
+        </wystepowanie>
+        <opis>
+            Posiadajac male kleszcze i gruby ogon, ten bardzo jadowity gatunek 
+            jest typowym przedstawicielem rodziny skorpionow Buthidae. W Europie 
+            powszechna jest mniej jadowita odmiana tego gatunku, 
+            charakteryzujacy sie bardziej brazowym zabarwieniem ciala. Natomiast 
+            odmiana zolta, wystepujaca glownie w Afryce, nalezy do najbardziej 
+            jadowitych skorpionow swiata. Dymorfizm plciowy jest slabo 
+            rozroznialny u tych osobnikow. Liczba "zebow" na pektynach u samicy 
+            wynosi od 19 do 30, natomiast u samca 25 do 36. Pektyny samca sa 
+            dluzsze.	
+        </opis>
+        <opis>
+            Osobnik nalezy do niezwykle szybkich i agresywnych skorpionow, bedac 
+            dokonalym mysliwym. zywi sie glownie swierszczami, malymi 
+            karaczanami i innymi drobnymi owadami. W naturze czesto zjadaja inne 
+            skorpiony, takze swojego gatunku.
+        </opis>
+        <opis>
+            Skorpion polny osiaga rozmiary od 5-8 cm.
+        </opis>
+        <zdjecie>
+        </zdjecie>
+        <zdjecie>
+        </zdjecie>
+        <zdjecie>
+        </zdjecie>
+        <zdjecie>
+        </zdjecie>
+        <linki>
+            www.arachne.boo.pl/articles.php?id=34
+        </linki>
+        <linki>
+            http://terrarystyka.pl/gatunki.php?id=20020714130727
+        </linki>
+        <linki>
+            http://www.skorpione.de/htm/galerie/b_occitanus.htm
+        </linki>
+        <linki>
+            http://www.bugsincyberspace.com/scorpions/buthus_occitanus.html
+        </linki>
+        <data>
+            2005-12-11
+        </data>
+    </skorpiony>
+</pajeczaki>

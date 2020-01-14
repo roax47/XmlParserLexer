@@ -1,0 +1,1 @@
+#define MAXSTRLEN	1000
